@@ -1,0 +1,23 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1) o Número de pregunta en Referéndum.,9,1
+Código de la Comunidad Autónoma o 99 si se trata del Total Nacional del C.E.R.A.,10,2
+Código I.N.E. de la provincia o 99 si se trata del Total Nacional o Autonómico del C.E.R.A.,12,2
+Código I.N.E. del municipio (999 = C.E.R.A.).,14,3
+"Número de distrito municipal en su caso o 01 si el municipio no tiene distritos (distrito único). En el caso de datos procedentes del C.E.R.A., llevará el número del ‘Distrito Electoral’ a que correspondan o 09 si el ámbito de dicho distrito coincide con el de la provincia.",17,2
+"Código de la sección (tres dígitos seguidos de un espacio, letra mayúscula u otro dígito).",19,4
+Código de la mesa (una letra mayúscula identificando la mesa o una ‘U’ en caso de mesa única).,23,1
+Censo del I.N.E.,24,7
+Censo de escrutinio o censo C.E.R.A.,31,7
+Censo C.E.R.E. en escrutinio (Residentes Extranjeros).,38,7
+Total votantes C.E.R.E. (Residentes Extranjeros).,45,7
+Votantes del primer avance de participación.,52,7
+Votantes del segundo avance de participación.,59,7
+Votos en blanco.,66,7
+Votos nulos.,73,7
+Votos a candidaturas.,80,7
+Votos afirmativos en Referéndum o ceros en otros procesos electorales.,87,7
+Votos negativos en Referéndum o ceros en otros procesos electorales.,94,7
+Datos oficiales (Si/No).,101,1

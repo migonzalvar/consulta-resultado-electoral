@@ -1,0 +1,27 @@
+column,start,length
+"Tipo de municipio:
+08 = entre 100 y 250 habitantes
+09 = menores de 100 habitantes.",1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1).,9,1
+Código de la Comunidad Autónoma.,10,2
+Código I.N.E. de la provincia.,12,2
+Código I.N.E. del municipio.,14,3
+Nombre del municipio.,17,100
+Código del Partido Judicial.,117,3
+Código de la Diputación Provincial.,120,3
+Código de la comarca.,123,3
+Población de derecho.,126,3
+Número de mesas.,129,2
+Censo del I.N.E.,131,3
+Censo de escrutinio.,134,3
+Censo C.E.R.E. en escrutinio (Residentes Extranjeros).,137,3
+Total votantes C.E.R.E. (Residentes Extranjeros).,140,3
+Votantes del primer avance de participación.,143,3
+Votantes del segundo avance de participación.,146,3
+Votos en blanco.,149,3
+Votos nulos.,152,3
+Votos a candidaturas.,155,3
+Número de ‘Escaños’ a distribuir.,158,2
+Datos oficiales (Si/No).,160,1

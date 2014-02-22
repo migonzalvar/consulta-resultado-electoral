@@ -1,0 +1,22 @@
+column,start,length
+"Tipo de municipio:
+08 = entre 100 y 250 habitantes
+09 = menores de 100 habitantes.",1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1).,9,1
+Código I.N.E. de la provincia.,10,2
+Código I.N.E. del municipio.,12,3
+Código de la candidatura.,15,6
+Votos obtenidos por la candidatura.,21,3
+Número de candidatos obtenidos por la candidatura.,24,2
+Nombre del candidato.,26,25
+Primer apellido del candidato.,51,25
+Segundo apellido del candidato.,76,25
+Sexo del candidato (Masculino/Femenino).,101,1
+Fecha de nacimiento del candidato (DIA).,102,2
+Fecha de nacimiento del candidato (MES).,104,2
+Fecha de nacimiento del candidato (AÑO).,106,4
+D.N.I. del candidato,110,10
+Votos obtenidos por el candidato.,120,3
+Candidato elegido (Si/No).,123,1
