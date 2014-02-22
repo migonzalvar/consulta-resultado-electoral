@@ -11,7 +11,19 @@ Prerrequisitos
 1. Descargar las definiciones de los archvivos de datos de formato fijo del
    Ministerio.
 
-2. Instalar utilidades csvkit
+   Esta información se encuentra en el `Área de descargas`__ del portal de
+   procesos electorales del Ministerio del Interior.
+
+.. __: http://www.infoelectoral.mir.es/min/areaDescarga.html?method=inicio
+
+2. Instalar utilidades csvkit.
+
+   Esta utilidad está disponible en `Python Package Index`__ y se puede instalar
+   usando pip::
+
+    $ pip install csvkit
+
+.. __: https://pypi.python.org/pypi/csvkit
 
 Uso
 ---
@@ -40,9 +52,8 @@ Más información
 En el archivo de explicación de la base de datos, se puede leer la explicación
 de los códigos utilizados para nombrar a los archivos:
 
-    El nombre de los ficheros es el siguiente:
+    El nombre de los ficheros es el siguiente::
 
-    ::
         nnxxaamm.dat
 
     donde 
