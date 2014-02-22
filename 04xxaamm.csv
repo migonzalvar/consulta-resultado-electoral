@@ -1,0 +1,20 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1).,9,1
+Código I.N.E.de la provincia (99 en elecciones al Parlamento Europeo).,10,2
+Distrito electoral cuando corresponda o 9 en elecciones que no tienen este tipo de circunscripción.,12,1
+Código I.N.E. del municipio (elecciones municipales) o del Senador (elecciones al Senado). En el resto de procesos electorales llevará siempre 999.,13,3
+Código de la candidatura.,16,6
+Número de orden del candidato.,22,3
+"Tipo de candidato (T = Titular, S = Suplente).",25,1
+Nombre del candidato.,26,25
+Primer apellido del candidato.,51,25
+Segundo apellido del candidato.,76,25
+Sexo del candidato (Masculino/Femenino).,101,1
+Fecha de nacimiento del candidato (DIA).,102,2
+Fecha de nacimiento del candidato (MES).,104,2
+Fecha de nacimiento del candidato (AÑO).,106,4
+D.N.I. del candidato.,110,10
+Candidato elegido (Si/No).,120,1

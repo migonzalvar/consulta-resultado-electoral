@@ -1,0 +1,11 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1).,9,1
+Código I.N.E. de la provincia.,10,2
+Código I.N.E. del municipio.,12,3
+Número de distrito municipal en su caso o 99 si es el total municipal.,15,2
+Código de la candidatura o del Senador.,17,6
+Votos obtenidos por la candidatura.,23,8
+Número de candidatos obtenidos por la candidatura.,31,3

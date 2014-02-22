@@ -1,0 +1,29 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1) o Número de pregunta en Referéndum.,9,1
+Código de la Comunidad Autónoma.,10,2
+Código I.N.E. de la provincia.,12,2
+Código I.N.E. del municipio.,14,3
+Número de distrito municipal en su caso o 99 si es el total municipal.,17,2
+Nombre del municipio o del distrito municipal.,19,100
+Código del Distrito Electoral cuando corresponda o 0 en elecciones que no tienen este tipo de circunscripción.,119,1
+Código del Partido Judicial.,120,3
+Código de la Diputación Provincial.,123,3
+Código de la comarca.,126,3
+Población de derecho.,129,8
+Número de mesas.,137,5
+Censo del I.N.E.,142,8
+Censo de escrutinio.,150,8
+Censo C.E.R.E. en escrutinio (Residentes Extranjeros).,158,8
+Total votantes C.E.R.E. (Residentes Extranjeros).,166,8
+Votantes del primer avance de participación.,174,8
+Votantes del segundo avance de participación.,182,8
+Votos en blanco.,190,8
+Votos nulos.,198,8
+Votos a candidaturas.,206,8
+Número de ‘Escaños’ a distribuir cuando el municipio es la circunscripción electoral. Ceros en otros casos.,214,3
+Votos afirmativos en Referéndum o ceros en otros procesos electorales.,217,8
+Votos negativos en Referéndum o ceros en otros procesos electorales.,225,8
+Datos oficiales (Si/No).,233,1

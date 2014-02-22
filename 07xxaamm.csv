@@ -1,0 +1,24 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Número de vuelta (en procesos a una sola vuelta = 1) o Número de pregunta en Referéndum.,9,1
+"Código de la Comunidad Autónoma. En el caso de Total Nacional, llevará 99.",10,2
+Código I.N.E. de la provincia o 99 si se trata de datos a nivel Total Comunidad o Total Nacional.,12,2
+"Código del Distrito Electoral que corresponda o 9 en datos a nivel Total Provincial, Comunidad o Nacional.",14,1
+Nombre del ámbito territorial.,15,50
+Población de derecho.,65,8
+Número de mesas.,73,5
+Censo del I.N.E.,78,8
+Censo de escrutinio.,86,8
+Censo C.E.R.E. en escrutinio (Residentes Extranjeros).,94,8
+Total votantes C.E.R.E. (Residentes Extranjeros).,102,8
+Votantes del primer avance de participación.,110,8
+Votantes del segundo avance de participación.,118,8
+Votos en blanco.,126,8
+Votos nulos.,134,8
+Votos a candidaturas.,142,8
+Número de ‘Escaños’ a distribuir cuando el ámbito coincida con la circunscripción electoral o Total de ‘Escaños’ distribuidos en el ámbito. Ceros en el caso de que el ámbito sea inferior a la circunscripción electoral.,150,6
+Votos afirmativos en Referéndum o ceros en otros procesos electorales.,156,8
+Votos negativos en Referéndum o ceros en otros procesos electorales.,164,8
+Datos oficiales (Si/No).,172,1
