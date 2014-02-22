@@ -1,0 +1,22 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+"Número de vuelta.
+(en procesos a una sola vuelta o Referéndum = 1).",9,1
+Siempre 1 (se adjunta fichero 01xxaamm.dat).,10,1
+1/0 (se adjunta/no se adjunta el fichero 02xxaamm.dat).,11,1
+1/0 (se adjunta/no se adjunta el fichero 03xxaamm.dat).,12,1
+1/0 (se adjunta/no se adjunta el fichero 04xxaamm.dat).,13,1
+1/0 (se adjunta/no se adjunta el fichero 05xxaamm.dat).,14,1
+1/0 (se adjunta/no se adjunta el fichero 06xxaamm.dat).,15,1
+1/0 (se adjunta/no se adjunta el fichero 07xxaamm.dat).,16,1
+1/0 (se adjunta/no se adjunta el fichero 08xxaamm.dat).,17,1
+1/0 (se adjunta/no se adjunta el fichero 09xxaamm.dat).,18,1
+1/0 (se adjunta/no se adjunta el fichero 10xxaamm.dat).,19,1
+1/0 (se adjunta/no se adjunta el fichero 1104aamm.dat).,20,1
+1/0 (se adjunta/no se adjunta el fichero 1204aamm.dat).,21,1
+1/0 (se adjunta/no se adjunta el fichero 0510aamm.dat).,22,1
+1/0 (se adjunta/no se adjunta el fichero 0610aamm.dat).,23,1
+1/0 (se adjunta/no se adjunta el fichero 0710aamm.dat).,24,1
+1/0 (se adjunta/no se adjunta el fichero 0810aamm.dat).,25,1

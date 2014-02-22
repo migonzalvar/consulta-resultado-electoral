@@ -1,0 +1,15 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+"Número de vuelta.
+(en procesos a una sola vuelta o Referéndum = 1).",9,1
+"Tipo de ámbito (N=nacional, A=autonómico).",10,1
+Ámbito territorial del proceso electoral.,11,2
+Fecha de celebración del proceso electoral (DIA).,13,2
+Fecha de celebración del proceso electoral (MES).,15,2
+Fecha de celebración del proceso electoral (AÑO).,17,4
+Hora de apertura de los ‘Colegios Electorales’ (en formato ‘HH:MM’ de 24 horas).,21,5
+Hora de cierre de los ‘Colegios Electorales’ (en formato ‘HH:MM’ de 24 horas).,26,5
+Hora del primer ‘Avance de Participación’ (en formato ‘HH:MM’ de 24 horas).,31,5
+Hora del segundo ‘Avance de Participación’ (en formato ‘HH:MM’ de 24 horas).,36,5

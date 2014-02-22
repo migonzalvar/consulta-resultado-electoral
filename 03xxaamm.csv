@@ -1,0 +1,10 @@
+column,start,length
+Tipo de elección.,1,2
+Año del proceso electoral.,3,4
+Mes del proceso electoral.,7,2
+Código de la candidatura.,9,6
+Siglas de la candidatura.,15,50
+Denominación de la candidatura.,65,150
+Código de la candidatura cabecera de acumulación a nivel provincial.,215,6
+Código de la candidatura cabecera de acumulación a nivel autonómico.,221,6
+Código de la candidatura cabecera de acumulación a nivel nacional.,227,6
